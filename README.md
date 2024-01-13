@@ -20,6 +20,23 @@ Following links should suffice in providing a sufficient background:
 ### Setting things up
 The following is for arch and arch based distros since that is what i am using but you can replicate everything simply using commands for your 
 
-install vim
+install vim 
 
 ```
+sudo pacman -S vim
+```
+
+install latex
+
+```
+sudo pacman -S texlive
+```
+
+install zathura - this will be our pdf view of choice
+
+```
+sudo pacman -S zathura
+sudo paccman -S zathura-pdf-mupdf
+```
+
+
