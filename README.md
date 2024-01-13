@@ -14,6 +14,7 @@ Following links should suffice in providing a sufficient background:
 
 > There many other fantastics resources online these are just ones I choose. Also if you have vim already installed typing ```vimtutor``` into your terminal will bring up probably one of the best vim tutorials as well
 
+
 The following is for arch and arch based distros since that is what i am using but you can replicate everything simply using commands for your 
 
 install vim
