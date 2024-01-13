@@ -8,7 +8,10 @@ This repo servers two purposes
 I use vim + latex for my note taking. Recommend getting comfortable with both vim and latex before trying to take notes using either.
 Following links should suffice in providing a sufficient background:
 
-https://vimschool.netlify.app/introduction/vimtutor/
+**vim:** https://vimschool.netlify.app/introduction/vimtutor/
+**latex:** https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+
+> There many other fantastics resources online these are just ones I choose. Also if you have vim already installed typing ```vimtutor``` into your terminal will bring up probably one of the best vim tutorials as well
 
 The following is for arch and arch based distros since that is what i am using but you can replicate everything simply using commands for your 
 
