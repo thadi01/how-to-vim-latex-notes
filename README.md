@@ -4,6 +4,8 @@ This repo servers two purposes
 1. To hold all my university notes
 2. Holds my latex master and preamble templates for both my and others to benifit from
 
+Also as a heads up this is for linux systems (my commands will be using pacman since im on arch but using the appropiate command for your distro should yield the same results). I'm not sure how relevant this will be for people on Mac or Windows systems but I imagine some of the stuff is still transferable.
+
 ## Replicating my env
 ### Learning the tools
 I use vim + latex for my note taking. Recommend getting comfortable with both vim and latex before trying to take notes using either.
