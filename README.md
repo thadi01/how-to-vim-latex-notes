@@ -9,6 +9,7 @@ I use vim + latex for my note taking. Recommend getting comfortable with both vi
 Following links should suffice in providing a sufficient background:
 
 **vim:** https://vimschool.netlify.app/introduction/vimtutor/
+
 **latex:** https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
 
 > There many other fantastics resources online these are just ones I choose. Also if you have vim already installed typing ```vimtutor``` into your terminal will bring up probably one of the best vim tutorials as well
