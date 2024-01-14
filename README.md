@@ -45,6 +45,8 @@ install vim-plug - vim plugin manager of choice
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 ```
+> Check https://github.com/junegunn/vim-plug to get a better understanding of how to use vim-plug
+
 
 install latex
 
