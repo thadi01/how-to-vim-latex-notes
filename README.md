@@ -1,4 +1,4 @@
-# university + latex 
+# university + latex (incomplete)
 This repo serves two purposes
 
 1. To hold all my university notes
