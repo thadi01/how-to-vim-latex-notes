@@ -6,6 +6,9 @@ This repo serves two purposes
 
 Also as a heads up this is for Linux systems (some commands will be using pacman but using the appropriate command for your distro should yield the same results). I'm not sure how relevant this will be for people on Mac or Windows systems but I imagine some of the stuff is still transferable.
 
+Also I would like to acknowledge Gilles Castel who has unfortunetly passed away to soon. The entire idea of taking notes in vim + latex was inspired by him and he popularized it very much. I took a lot of inspiration from his readily available resources. I hope someone finds similar use here.
+> More at https://castel.dev/
+
 ## Replicating my env
 ### Learning the tools
 I use vim + latex for my note taking. Recommend getting comfortable with both vim and latex before trying to take notes using either.
@@ -76,10 +79,15 @@ filetype plugin indent on
 syntax enable
 let g:vimtex_view_method = 'zathura'
 ```
+
+Then run the ```PlugInstall``` inside vim.
+
 > This adds the vimtex plugin along with a couple needed lines.
-> Vimtex is a very powerful and flexible tool for vim + latex setups. Things like your pdfview and latex compiler can all be changed.
+> Vimtex is a very powerful and flexible tool for vim + latex setups. Things like your pdfviewer and latex compiler can all be changed.
 > Read more at https://github.com/lervag/vimtex
 
+
+## Organization of notes
 
 
 
