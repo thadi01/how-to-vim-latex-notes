@@ -70,13 +70,15 @@ sudo paccman -S zathura-pdf-mupdf
 
 add the following to your .vimrc: 
 ```
-Plug 'lervag/vimtex'
+Plug 'lervag/vimtex' 
 
 filetype plugin indent on
 syntax enable
 let g:vimtex_view_method = 'zathura'
 ```
-> This is the vimtex plugin a very powerful and flexible tool for vim + latex setups. Read more at https://github.com/lervag/vimtex
+> This adds the vimtex plugin along with a couple needed lines.
+> Vimtex is a very powerful and flexible tool for vim + latex setups. Things like your pdfview and latex compiler can all be changed.
+> Read more at https://github.com/lervag/vimtex
 
 
 
