@@ -18,6 +18,7 @@ Following links should suffice in providing a sufficient background:
 > There are many other fantastic resources online these are just ones I choose. Also if you have vim already installed typing ```vimtutor``` into your terminal will bring up probably one of the best vim tutorials as well
 
 Recommonded as well is to follow this guide (just setting up .vimrc):
+
 https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
 
 if you opt not to read the above article just run the following commands:
