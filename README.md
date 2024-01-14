@@ -79,12 +79,11 @@ filetype plugin indent on
 syntax enable
 let g:vimtex_view_method = 'zathura'
 ```
-
-Then run the command ```PlugInstall``` inside vim
-
 > This adds the vimtex plugin along with a couple needed lines.
 > Vimtex is a very powerful and flexible tool for vim + latex setups. Things like your pdfviewer and latex compiler can all be changed.
 > Read more at https://github.com/lervag/vimtex
+
+Then run the command ```PlugInstall``` inside vim
 
 
 ## Organization of notes
