@@ -4,7 +4,7 @@ This repo serves two purposes
 1. To hold all my university notes
 2. Holds my latex master and preamble templates for both me and others to benefit from
 
-Also as a heads up this is for Linux systems (my commands will be using pacman but using the appropriate command for your distro should yield the same results). I'm not sure how relevant this will be for people on Mac or Windows systems but I imagine some of the stuff is still transferable.
+Also as a heads up this is for Linux systems (some commands will be using pacman but using the appropriate command for your distro should yield the same results). I'm not sure how relevant this will be for people on Mac or Windows systems but I imagine some of the stuff is still transferable.
 
 ## Replicating my env
 ### Learning the tools
@@ -31,7 +31,12 @@ touch ~/.vimrc
 ```
 
 ### Setting things up
-The following is for arch and arch based distros since that is what I am using but you can replicate everything simply using commands for your 
+The following is for arch/arch based distros since that is what I am using but you can replicate everything simply using commands for your distro. 
+
+Make sure you update everything first.
+```
+sudo pacman -Syu
+```
 
 install vim 
 
@@ -52,6 +57,8 @@ install latex
 
 ```
 sudo pacman -S texlive
+sudo pacman -S texlive-latexextra
+sudo pacman -S texlive-latexrecommended 
 ```
 
 install zathura - pdfviewer of choice
