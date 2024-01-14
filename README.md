@@ -68,4 +68,16 @@ sudo pacman -S zathura
 sudo paccman -S zathura-pdf-mupdf
 ```
 
+add the following to your .vimrc: 
+```
+Plug 'lervag/vimtex'
+
+filetype plugin indent on
+syntax enable
+let g:vimtex_view_method = 'zathura'
+```
+> This is the vimtex plugin a very powerful and flexible tool for vim + latex setups. Read more at https://github.com/lervag/vimtex
+
+
+
 
