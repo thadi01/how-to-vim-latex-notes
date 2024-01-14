@@ -28,7 +28,7 @@ if you opt not to read the above article just run the following commands:
 ```
 mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
 ```
-if you don't have or have not created a .vimrc the following:
+if you don't have a .vimrc do following:
 ```
 touch ~/.vimrc
 ```
@@ -71,7 +71,7 @@ sudo pacman -S zathura
 sudo paccman -S zathura-pdf-mupdf
 ```
 
-add the following to your .vimrc: 
+add the following to your .vimrc
 ```
 Plug 'lervag/vimtex' 
 
@@ -80,7 +80,7 @@ syntax enable
 let g:vimtex_view_method = 'zathura'
 ```
 
-Then run the ```PlugInstall``` inside vim.
+Then run the command ```PlugInstall``` inside vim
 
 > This adds the vimtex plugin along with a couple needed lines.
 > Vimtex is a very powerful and flexible tool for vim + latex setups. Things like your pdfviewer and latex compiler can all be changed.
