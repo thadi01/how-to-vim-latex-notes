@@ -11,6 +11,11 @@ Also I would like to acknowledge Gilles Castel who has unfortunetly passed away 
 
 ## What it looks like 
 
+![image](https://github.com/thadi01/university/assets/56411058/9afdadc6-8876-4985-bc94-88a1ad232c6f)
+![image](https://github.com/thadi01/university/assets/56411058/97354be8-6c7e-4ac5-bbcd-87cb01144a34)
+![image](https://github.com/thadi01/university/assets/56411058/ba12f54d-c307-46a4-9608-688c5c6c699f)
+![image](https://github.com/thadi01/university/assets/56411058/f1e23792-9a87-423e-ba5a-69a00549b95a)
+![image](https://github.com/thadi01/university/assets/56411058/e61317bd-2f69-4c67-b668-60931509e9c1)
 
 ## Replicating my env
 ### Learning the tools
