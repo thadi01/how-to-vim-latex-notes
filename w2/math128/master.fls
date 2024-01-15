@@ -21,10 +21,10 @@ INPUT /usr/share/texmf-dist/tex/latex/base/size10.clo
 INPUT ./preamble.tex
 INPUT ./preamble.tex
 INPUT ./preamble.tex
-INPUT preamble.tex
 INPUT ./preamble.tex
 INPUT ./preamble.tex
-INPUT preamble.tex
+INPUT ./preamble.tex
+INPUT ./preamble.tex
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
