@@ -2,16 +2,9 @@
 
 \input{preamble}
 
-\title{
-    \rule{\linewidth}{1.5pt}
-    \Huge{\textbf{Calculus 2}} \\
-    \rule{\linewidth}{1.5pt}
-    \LARGE{MATH 128}
-}
-
+\title{Calculus 2 \\  Math 128}
 \author{Talha Hadi \\ University of Waterloo}
 \date{Winter 2024}
-
 
 \begin{document}
 
