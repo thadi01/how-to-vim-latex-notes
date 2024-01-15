@@ -60,7 +60,7 @@
 \mdfsetup{skipabove=1em,skipbelow=0em}
 
 \declaretheoremstyle[
-    headfont=\bfseries\sffamily\color{BurntOrange!75!black}, notefont=\large, bodyfont=\normalfont,
+    headfont=\bfseries\sffamily\color{Dandelion!70!black}, notefont=\large, bodyfont=\normalfont,
     mdframed={
         linewidth=2pt,
         rightline=false, topline=false, bottomline=false,
@@ -70,42 +70,49 @@
 ]{thmyellowbox}
 
 \declaretheoremstyle[
-    headfont=\bfseries\sffamily\color{Mulberry!70!black}, notefont=\large, bodyfont=\normalfont,
+    headfont=\bfseries\sffamily\color{Orchid!70!black}, bodyfont=\normalfont,
     mdframed={
         linewidth=2pt,
         rightline=false, topline=false, bottomline=false,
-        linecolor=Mulberry, backgroundcolor=Mulberry!5,
+        linecolor=NavyBlue, backgroundcolor=NavyBlue!5,
     },
-    postheadspace=\newline
-]{thmpurplebox}
+]{thmbluebox}
 
 \declaretheoremstyle[
-    headfont=\bfseries\sffamily\color{NavyBlue!70!black}, notefont=\large, bodyfont=\normalfont,
+    headfont=\bfseries\sffamily\color{NavyBlue!70!black}, bodyfont=\normalfont,
     mdframed={
         linewidth=2pt,
         rightline=false, topline=false, bottomline=false,
         linecolor=NavyBlue
-    },
-    postheadspace=\newline
-]{thmbluebox}
+    }
+]{thmblueline}
 
 \declaretheoremstyle[
-    headfont=\bfseries\sffamily\color{ForestGreen!70!black}, notefont=\large, bodyfont=\normalfont,
+    headfont=\bfseries\sffamily\color{Dandelion!70!black}, notefont=\large, bodyfont=\normalfont,
     mdframed={
     linewidth=2pt,
     rightline=false, topline=false, bottomline=false,
-    linecolor=ForestGreen, backgroundcolor=ForestGreen!5,
+    linecolor=Dandelion, backgroundcolor=Goldenrod!5,
     },
     postheadspace=\newline
-]{thmgreenbox}
+]{thmyellowbox}
+
+\declaretheoremstyle[
+    headfont=\bfseries\sffamily\color{RawSienna!70!black}, bodyfont=\normalfont,
+    mdframed={
+        linewidth=2pt,
+        rightline=false, topline=false, bottomline=false,
+        linecolor=RawSienna, backgroundcolor=RawSienna!5,
+    }
+]{thmredbox}
 
 % framing for different environment
-\declaretheorem[name=Definition, parent=section, style=thmyellowbox]{defn}
+\declaretheorem[style=thmyellowbox, name=Definition, parent=section]{defn}
 
-\declaretheorem[name=Theorem, sibling=defn, style=thmpurplebox]{thm}
+\declaretheorem[name=Theorem, sibling=defn, style=thpurplebox]{thm}
 
-\declaretheorem[name=Lemma, sibling=defn, style=thmbluebox]{lem}
+\declaretheorem[name=Lemma, sibling=defn]{lem}
 
-\declaretheorem[name=Corollary, sibling=defn, style=thmbluebox]{cor}
+\declaretheorem[name=Corollary, sibling=defn]{cor}
 
 \declaretheorem[name=Example, sibling=defn, style=thmgreenbox]{eg}
