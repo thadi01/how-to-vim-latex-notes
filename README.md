@@ -9,7 +9,7 @@ Also as a heads up this is for Linux systems (some commands will be using pacman
 Also I would like to acknowledge Gilles Castel who has unfortunetly passed away to soon. The entire idea of taking notes in vim + latex was inspired by him and he popularized it very much. I took a lot of inspiration from his readily available resources. I hope someone finds similar use here.
 > More at https://castel.dev/
 
-## What it looks like 
+## What it looks likes
 
 <img src="https://github.com/thadi01/university/assets/56411058/9afdadc6-8876-4985-bc94-88a1ad232c6f" width="40%">
 <img src="https://github.com/thadi01/university/assets/56411058/ba12f54d-c307-46a4-9608-688c5c6c699f" width="40%">
