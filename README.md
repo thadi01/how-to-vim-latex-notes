@@ -13,8 +13,8 @@ Also I would like to acknowledge Gilles Castel who has unfortunetly passed away 
 
 <img src="https://github.com/thadi01/university/assets/56411058/9afdadc6-8876-4985-bc94-88a1ad232c6f" width="40%">
 <img src="https://github.com/thadi01/university/assets/56411058/ba12f54d-c307-46a4-9608-688c5c6c699f" width="40%">
-![image](https://github.com/thadi01/university/assets/56411058/f1e23792-9a87-423e-ba5a-69a00549b95a)
-![image](https://github.com/thadi01/university/assets/56411058/e61317bd-2f69-4c67-b668-60931509e9c1)
+<img src="https://github.com/thadi01/university/assets/56411058/f1e23792-9a87-423e-ba5a-69a00549b95a" width="40%">
+<img src="https://github.com/thadi01/university/assets/56411058/e61317bd-2f69-4c67-b668-60931509e9c1" width="40%">
 
 ## Replicating my env
 ### Learning the tools
