@@ -1,18 +1,31 @@
-% more or less not needed since it has become the stanard for latex but included nonetheless
+% more character support
 \usepackage[utf8]{inputenc}
-% adds support for more characters
 \usepackage[T1]{fontenc}
-% adds support for some math related smybols such as degrees or Omega
-\usepackage{textcomp}
-\usepackage{gensymb}
+% adds support for a lot of symbols
+\usepackage{textcomp, gensymb, amssymb, latexsym}
 % ever so slightly improves visual of text
 \usepackage{microtype}
 % to handle images
 \usepackage{graphicx}
 % path for images (used by graphicx package)
 \graphicspath{ {./images/} }
-% adds a lot of mathematical symbols
-\usepackage{amssymb}
-% adds a lot of felxibilty for mathematical documentation
-\usepackage{amsmath}
+% math packages
+\usepackage{amsmath, amsfonts, mathtools, amsthm}
+% lets you bold mathematical symbols well
+\usepackage{bm}
+% adds colour support
+\usepackage{xcolor}
+% adds a diagonal line through something
+\usepackage{cancel}
+% short cuts for certain symbols like complex or real numbers 
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\renewcommand{\O}{\ensuremath{\emptyset}}
+\newcommand{\F}{\ensuremath{\mathbb{F}}}
+\newcommand{\C}{\ensuremath{\mathbb{C}}}
+% quickly right trig fun + theta 
+\newcommand{\Sin}{\sin,\theta}
+\newcommand{\Cos}{\cos,\theta}
+\newcommand{\Tan}{\tan,\theta}
 
