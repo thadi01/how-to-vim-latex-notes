@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.13)  15 JAN 2024 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.13)  15 JAN 2024 17:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -928,27 +928,38 @@ Package mdframed Info: mdframed detected package amsthm
  changed the theorem header of amsthm
 (mdframed)              on input line 21.
 Package hyperref Info: bookmark level for unknown eg defaults to 0 on input line 21.
-) [2
+ [2
 
-] 
+]
+Chapter 2.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 39.
+[3
+
+]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 49.
+) [4] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./master.aux)
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 7CF182A1E4BA829462525A5A4C6C01BA;248.
+(rerunfilecheck)             Checksum: 29F4B7E5B676F09F7C9F923186809DA5;456.
  ) 
 Here is how much of TeX's memory you used:
- 28979 strings out of 477985
- 549541 string characters out of 5840058
- 1860388 words of memory out of 5000000
- 48494 multiletter control sequences out of 15000+600000
- 539792 words of font info for 162 fonts, out of 8000000 for 9000
+ 29017 strings out of 477985
+ 550058 string characters out of 5840058
+ 1861388 words of memory out of 5000000
+ 48502 multiletter control sequences out of 15000+600000
+ 540430 words of font info for 173 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 89i,10n,91p,1003b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,11n,91p,1003b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb>
-Output written on master.pdf (3 pages, 127911 bytes).
+Output written on master.pdf (5 pages, 137656 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
- 61469 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 117 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
+ 61485 words of extra memory for PDF output out of 61914 (max. 10000000)
 
