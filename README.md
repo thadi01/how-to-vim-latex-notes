@@ -89,7 +89,8 @@ Then run the command ```PlugInstall``` inside vim
 ## Organization of notes
 How I organize my notes is I have a university directory. 
 
-The university directory contains directories that are related different semesters - 2a = first term of second year / 3b = second term of third year / w2 = second work term 
+The university directory contains directories that are related different semesters 
+> 2a = first term of second year / 3b = second term of third year / w2 = second work term 
 
 These directories then contain directories for the courses i.e math128
 The course directory file structure is a master.tex a preamble.tex and week_#.tex 
