@@ -1,4 +1,4 @@
-# Intro to vim + latex (incomplete)
+# Intro to vim + latex (need to add snippets))
 This repo serves two purposes
 
 1. To hold all my university notes
