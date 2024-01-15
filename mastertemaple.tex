@@ -1,1 +1,31 @@
+\documentclass[a4paper]{report}
+
+% this inserst all packages and shortcuts that I want while keeping the doc clean 
+% \input{preamble}
+
+% this stuff is not included in the preamble because it will not stay the same across different master docs
+\title{
+    \rule{\linewidth}{1.5pt}
+    \Huge{\textbf{class name}} \\
+    \rule{\linewidth}{1.5pt}
+    \LARGE{class code}
+}
+\author{Talha Hadi \\ University of Waterloo}
+\date{term and year}
+
+
+\begin{document}
+
+% this will include the title/author/date
+\maketitle
+% creating a table of contents
+\tableofcontents
+
+% inputing all your lessons
+\input{week_1}
+\input{week_2}
+% ... 
+\input{week_#}
+
+\end{document}
 
