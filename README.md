@@ -9,6 +9,9 @@ Also as a heads up this is for Linux systems (some commands will be using pacman
 Also I would like to acknowledge Gilles Castel who has unfortunetly passed away to soon. The entire idea of taking notes in vim + latex was inspired by him and he popularized it very much. I took a lot of inspiration from his readily available resources. I hope someone finds similar use here.
 > More at https://castel.dev/
 
+## What it looks like 
+
+
 ## Replicating my env
 ### Learning the tools
 I use vim + latex for my note taking. Recommend getting comfortable with both vim and latex before trying to take notes using either.
