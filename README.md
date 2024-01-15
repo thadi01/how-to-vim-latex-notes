@@ -92,7 +92,12 @@ How I organize my notes is I have a university directory.
 The university directory contains directories that are related different semesters 
 > 2a = first term of second year | 3b = second term of third year | w2 = second work term 
 
-These directories then contain directories for the courses i.e math128 \\ 
+These directories then contain directories for the courses i.e math128
+
+
+
+
+
 The course directory file structure is a master.tex a preamble.tex and week_#.tex. The preamble contains packages that are needed to generate the document
 
 ![image](https://github.com/thadi01/university/assets/56411058/0e7b449b-c1fd-4724-ae43-0e0f4c394739)
