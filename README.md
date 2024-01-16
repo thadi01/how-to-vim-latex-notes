@@ -1,10 +1,6 @@
 # Intro to vim + latex (need to add snippets))
-This repo serves two purposes
 
-1. To hold all my university notes
-2. Holds my latex master and preamble templates for both me and others to benefit from
-
-Also as a heads up this is for Linux systems (some commands will be using pacman but using the appropriate command for your distro should yield the same results). I'm not sure how relevant this will be for people on Mac or Windows systems but I imagine some of the stuff is still transferable.
+Heads up this is for Linux systems (some commands will be using pacman but using the appropriate command for your distro should yield the same results). I'm not sure how relevant this will be for people on Mac or Windows systems but I imagine some of the stuff is still transferable.
 
 Also I would like to acknowledge Gilles Castel who has unfortunetly passed away to soon. The entire idea of taking notes in vim + latex was inspired by him and he popularized it very much. I took a lot of inspiration from his readily available resources. I hope someone finds similar use here.
 > More at https://castel.dev/
